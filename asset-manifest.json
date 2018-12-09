@@ -1,13 +1,13 @@
 {
   "main.css": "/WhatTimeIsItNow/static/css/main.d59b85a8.chunk.css",
-  "main.js": "/WhatTimeIsItNow/static/js/main.7eeb6e88.chunk.js",
-  "main.js.map": "/WhatTimeIsItNow/static/js/main.7eeb6e88.chunk.js.map",
-  "static/js/1.0db4e6c3.chunk.js": "/WhatTimeIsItNow/static/js/1.0db4e6c3.chunk.js",
-  "static/js/1.0db4e6c3.chunk.js.map": "/WhatTimeIsItNow/static/js/1.0db4e6c3.chunk.js.map",
+  "main.js": "/WhatTimeIsItNow/static/js/main.e24f0423.chunk.js",
+  "main.js.map": "/WhatTimeIsItNow/static/js/main.e24f0423.chunk.js.map",
+  "static/js/1.c3db8daf.chunk.js": "/WhatTimeIsItNow/static/js/1.c3db8daf.chunk.js",
+  "static/js/1.c3db8daf.chunk.js.map": "/WhatTimeIsItNow/static/js/1.c3db8daf.chunk.js.map",
   "runtime~main.js": "/WhatTimeIsItNow/static/js/runtime~main.be7ca5d4.js",
   "runtime~main.js.map": "/WhatTimeIsItNow/static/js/runtime~main.be7ca5d4.js.map",
   "static/css/main.d59b85a8.chunk.css.map": "/WhatTimeIsItNow/static/css/main.d59b85a8.chunk.css.map",
   "index.html": "/WhatTimeIsItNow/index.html",
-  "precache-manifest.921130048285b89cf71115499aded230.js": "/WhatTimeIsItNow/precache-manifest.921130048285b89cf71115499aded230.js",
+  "precache-manifest.4502c08deddd453f606a14963cff34c3.js": "/WhatTimeIsItNow/precache-manifest.4502c08deddd453f606a14963cff34c3.js",
   "service-worker.js": "/WhatTimeIsItNow/service-worker.js"
 }
