@@ -10,7 +10,7 @@ Description
 Installation
 ------------
 
-node.js + express + mysql + sequelize 를 사용하여 제작 되어진 서버입니다.
+React + Material-ui 를 사용하여 제작 되어진 서버입니다.
 
 ~~~
 $ npm install
