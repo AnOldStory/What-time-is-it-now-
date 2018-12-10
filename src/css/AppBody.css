@@ -1,0 +1,29 @@
+.left {
+    align-content: center;
+}
+
+.loding{
+    padding-top: 20px;
+    padding-left: 47%;
+    padding-right: 47%;
+    padding-bottom: 20px;
+}
+
+.center-box {
+    padding-top: 100px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.grid-padding {
+    padding: 10px;
+}
+
+.paper {
+    min-width: 100%;
+}
+
+.logo {
+    height: 24px;
+    width: 24px;
+}
