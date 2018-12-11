@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WhatTimeIsItNow/precache-manifest.95a5eb01ca219301759e9f0c2616f4fb.js"
+  "/WhatTimeIsItNow-Frontend/precache-manifest.29a6792b7538ec2b768e43f4eefa7ad4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/WhatTimeIsItNow/index.html", {
+workbox.routing.registerNavigationRoute("/WhatTimeIsItNow-Frontend/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -41,17 +41,17 @@ class Cards extends Component {
                         </Typography>
                     </CardContent>
                     <CardActions disableActionSpacing>
-                        <FacebookShareButton quote="WhatTimeIsItNow?" hashtag="#WhatTimeIsItNow?" url={"https://anoldstory.github.io/WhatTimeIsItNow/post/" + this.props.id} >
+                        <FacebookShareButton quote="WhatTimeIsItNow?" hashtag="#WhatTimeIsItNow?" url={"https://anoldstory.github.io/WhatTimeIsItNow-Frontend/post/" + this.props.id} >
                             <IconButton>
                                 <FacebookIcon size={32} round={true} />
                             </IconButton>
                         </FacebookShareButton>
-                        <TwitterShareButton title="WhatTimeIsItNow?" hashtag="#WhatTimeIsItNow?" url={"https://anoldstory.github.io/WhatTimeIsItNow/post/" + this.props.id} >
+                        <TwitterShareButton title="WhatTimeIsItNow?" hashtag="#WhatTimeIsItNow?" url={"https://anoldstory.github.io/WhatTimeIsItNow-Frontend/post/" + this.props.id} >
                             <IconButton>
                                 <TwitterIcon size={32} round={true} />
                             </IconButton>
                         </TwitterShareButton>
-                        <LineShareButton title="WhatTimeIsItNow?" url={"https://anoldstory.github.io/WhatTimeIsItNow/post/" + this.props.id} >
+                        <LineShareButton title="WhatTimeIsItNow?" url={"https://anoldstory.github.io/WhatTimeIsItNow-Frontend/post/" + this.props.id} >
                             <IconButton>
                                 <LineIcon size={32} round={true} />
                             </IconButton>
