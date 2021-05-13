@@ -7,6 +7,8 @@ import Icon from '@material-ui/core/Icon';
 import Cards from '../Cards';
 import CircularProgress from '@material-ui/core/CircularProgress';
 
+import CONFIG from '../../../../config.js';
+
 import '../../../../css/AppBody.css';
 
 class AppBody extends Component {
@@ -24,7 +26,7 @@ class AppBody extends Component {
     }
 
     componentDidMount() {
-        fetch("https://opso.ml/board")
+        fetch(CONFIG.URL +"/board")
             .then(res => {
                 return res.json();
             })
@@ -47,7 +49,7 @@ class AppBody extends Component {
         this.setState({
             loding: 1
         })
-        fetch("https://opso.ml/board", {
+        fetch(CONFIG.URL +"/board", {
             method: "post",
             headers: {
                 "Content-Type": "application/json; charset=UTF-8"
@@ -67,7 +69,7 @@ class AppBody extends Component {
     }
 
     handleUpdate() {
-        fetch("https://opso.ml/board")
+        fetch(CONFIG.URL +"/board")
             .then(res => {
                 return res.json();
             })
