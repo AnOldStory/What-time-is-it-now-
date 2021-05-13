@@ -4,6 +4,7 @@ import Grid from '@material-ui/core/Grid';
 import Button from '@material-ui/core/Button';
 import Cards from '../Cards';
 import { Link } from 'react-router-dom';
+import CONFIG from '../../../../config.js';
 
 class ShowPost extends Component {
     constructor(props) {
@@ -13,7 +14,7 @@ class ShowPost extends Component {
         }
     }
     componentDidMount() {
-        fetch("https://opso.ml/board/" + this.props.match.params.id)
+        fetch(CONFIG.URL +"/board/" + this.props.match.params.id)
             .then(res => {
                 return res.json();
             })
