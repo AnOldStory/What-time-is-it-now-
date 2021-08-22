@@ -10,7 +10,7 @@ What Time Is It Now - FrontEnd V1.0.0
 
 > 오픈소스를 사용하여 디지털 콘텐츠를 공유하는 서비스를 제작 하기
 
-![example](https://github.com/AnOldStory/WhatTimeIsItNow-Frontend/blob/master/readme/example.jpg?raw=true)
+![example](https://github.com/AnOldStory/WhatTimeIsItNow-Frontend/blob/master/readme/example.png?raw=true)
 
 Installation
 ------------
