@@ -18,7 +18,7 @@ Installation
 $ npm install
 ~~~
 
-Example
+How To Run
 -------
 ~~~
 $ npm start
