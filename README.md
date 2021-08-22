@@ -1,7 +1,5 @@
-What Time Is It Now - FrontEnd V1.0.0
+What Time Is It Now - FrontEnd
 ===============================
-
-
 
 ![](https://img.shields.io/badge/version-v1.0.0-orange) ![](https://img.shields.io/badge/Framework-React.js-brightgreen)
 
